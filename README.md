@@ -1,10 +1,12 @@
 👋 Hi, I’m @BrianZimbe.
 
-👀 I specialize in web and application development, focusing on JavaScript frameworks like Angular to create dynamic and responsive user interfaces. My expertise extends across JavaScript, PHP, Python, and Node.js for full-stack development. I'm also proficient in Java with Spring Boot, enhancing backend services with scalable and efficient solutions. My database skills include MySQL, PostgreSQL, and MS SQL Server, ensuring robust data management across platforms. Additionally, I excel in integrating and designing APIs, allowing seamless interaction between different software components and third-party services.
+👀 I specialize in end-to-end web and application development, focusing on building scalable, high-performance solutions. On the front end, I leverage JavaScript frameworks like Angular to create dynamic, interactive user interfaces. My back-end expertise spans multiple frameworks and languages, including Python (FastAPI, Flask), Node.js, and Java with Spring Boot, allowing me to build robust RESTful and asynchronous services tailored to complex workflows.
 
-💞️ I’m looking to collaborate with you on web development.
+I’m skilled in database management and optimization, with proficiency in MySQL, PostgreSQL, and MS SQL Server, ensuring data integrity and efficient query handling across various architectures. My experience includes designing and implementing RESTful APIs, enabling seamless, secure integration with third-party services and facilitating microservices architecture.
 
-📫 Reach me via email: zimbebrian@gmail.com | Mobile: +256706389094 | Tel: +256781331402
+💞️ I’m interested in collaborating on advanced web and backend solutions.
+
+📫 Connect with me via email: zimbebrian@gmail.com | Mobile: +256706389094 | Tel: +256781331402
 
 <!---
 BrianZimbe/BrianZimbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
