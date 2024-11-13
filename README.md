@@ -6,7 +6,7 @@ I’m skilled in database management and optimization, with proficiency in MySQL
 
 💞️ I’m interested in collaborating on advanced web and backend solutions.
 
-📫 Connect with me via email: zimbebrian@gmail.com | Mobile: +256706389094 | Tel: +256781331402
+📫 Connect with me via email: zimbebrian@gmail.com | Mobile: +256706389094
 
 <!---
 BrianZimbe/BrianZimbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
